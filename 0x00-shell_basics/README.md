@@ -7,3 +7,4 @@ for the task.4 , the ansswer is ls -a to print a list containg the hidden files 
 for the task.5, the answer is ls-al to print a list containg the hidden files and dirs with every details
 for the task.6, the answer is mkdir /tmp/6-firstdirectory to make a dir in /tmp
 for the task.7, the answer is mv /tmp/betty /tmp/my_first_directory
+for the task.8, the answer is rm /tmp/betty to delete the file callec betty
