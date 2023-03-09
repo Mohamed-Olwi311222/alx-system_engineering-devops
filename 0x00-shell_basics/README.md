@@ -12,3 +12,4 @@ for the task.9, the answer is rmdir /tmp/my_first_directory to delete the dir ca
 for the task.10, the answer is cd - to return to the previous  dir
 for the task.11, the answer is ls -al . .. /boot to print the list for the current dir , parent dir and /boot
 for the task.12, the answer is file /tmp/iamafile to print what kind of files is iamafile
+for the task.13, the answer is ln -s /bin/ls __ls__ to make a link i
