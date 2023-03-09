@@ -11,3 +11,4 @@ for the task.8, the answer is rm /tmp/betty to delete the file callec betty
 for the task.9, the answer is rmdir /tmp/my_first_directory to delete the dir called my_first_directory
 for the task.10, the answer is cd - to return to the previous  dir
 for the task.11, the answer is ls -al . .. /boot to print the list for the current dir , parent dir and /boot
+for the task.12, the answer is file /tmp/iamafile to print what kind of files is iamafile
