@@ -9,3 +9,4 @@ for the task.6, the answer is mkdir /tmp/6-firstdirectory to make a dir in /tmp
 for the task.7, the answer is mv /tmp/betty /tmp/my_first_directory
 for the task.8, the answer is rm /tmp/betty to delete the file callec betty
 for the task.9, the answer is rmdir /tmp/my_first_directory to delete the dir called my_first_directory
+for the task.10, the answer is cd .. to return one dir back
